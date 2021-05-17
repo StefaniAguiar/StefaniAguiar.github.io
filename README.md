@@ -1,1 +1,1 @@
-# StefaniAguiar.github.io
+This is my first project for Front End Mentor. I worked with Visual Studio Code and it took me one week to finish. I used CSS Grid and pseudo-elements. Those were my biggest challenges in this project.
